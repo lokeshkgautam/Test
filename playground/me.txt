@@ -1,0 +1,6 @@
+{{#user}}
+Name: Lokesh Kumar
+Skills: Linux, Basic Python, AWS
+Email: lokeshkumar2008@gmail.com
+{{/user}}
+
